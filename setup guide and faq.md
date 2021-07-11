@@ -1,6 +1,6 @@
 # Table of contents
-1. [Quick setup](https://github.com/nadiaenh/raspberry-pi/new/main/setup%20guide%20and%20faq.md#quick-setup)
-2. [Frequently asked questions](https://github.com/nadiaenh/raspberry-pi/new/main/setup%20guide%20and%20faq.md#frequently-asked-questions)
+1. [Quick setup](https://github.com/nadiaenh/raspberry-pi/blob/main/setup%20guide%20and%20faq.md#quick-setup)
+2. [Frequently asked questions](https://github.com/nadiaenh/raspberry-pi/blob/main/setup%20guide%20and%20faq.md#frequently-asked-questions)
 
 # Quick setup
 I'll update this guide later on to be specific to the model we will be using.  
