@@ -4,6 +4,7 @@
 - get started with the repo's [setup guide](https://github.com/nadiaenh/raspberry-pi/blob/main/setup%20guide%20and%20faq.md) 
 or the [official RasPi guide](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up) 
 - what are the best practices for walking robots ? what's been done before and works well ?   
+- tutorial for building a hexapod walking robot: https://maker.pro/raspberry-pi/projects/hexapod-walker-raspberry-pi
 - take into account things like center of gravity, total weight and weight of individual parts, the different needs of biped vs quadriped walking (vs wheels ?)
 - look into the walking patterns of spiders (for quadriped) or humans (for biped) and the mechanisms of the legs (the way the articulations move in sync with each other)
 
